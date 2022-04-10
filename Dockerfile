@@ -17,6 +17,7 @@ RUN set -ex && \
       gnutls-bin \
       jhead \
       libapache2-mod-php \
+      php-htmlpurifier \
       php-xml \
       php-mysql \
       php-gd \
